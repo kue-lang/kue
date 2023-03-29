@@ -45,3 +45,5 @@ luac.out
 /.luarocks/
 
 /build/
+/lua_modules
+/.luarocks
